@@ -1,0 +1,24 @@
+sempre que for preciso modificar objetos de uma lista ,usa-se o exemplo [1: 2]
+para inserirmos objetos em uma lista:
+.comando insert ()
+.comaando append()
+a sintaxe para este comando é: variavel.insert (indice,objeto)
+sempre que tivermos 2 lista,para unir uma a outra utiliza-se x.extend(y)
+para remover objeto da lista podemos escolher entre
+.funçâo remove ()
+função pop()
+palavra reserva del  e
+função clear()
+obs:ordem crescente=direta
+ordem decrescente =inversa
+.função sort().para ordenaçção 
+.a função reverse ()para inverter uma lista
+as funçoẽs copy () e list () inserem todos os objetivos de uma lista dentro de uma nova lista criada mas com sintaxes diferente 
+.novalista=listaexistente.copy()
+.novalista=(listaexistente)
+verificar quantas vezes um objeto ocorre dentro de uma lista
+.variavel.counj(objeto)
+um intervalo é definido por
+.um valor inicial
+.um valor final: e 
+.um valor de paso.
